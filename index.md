@@ -2,6 +2,8 @@
 
 Ciao MARCO
 
-![Image](images/Image7.jpg)
+<!-- ![Image](images/Image7.jpg) -->
 
-<div style="width:100px; text-align:center;"><img src="images/Image7.jpg"></div>
+<div style="width: 100%;text-align: center;">
+  <img src="images/Image7.jpg" style="width: 100px;">
+</div>
